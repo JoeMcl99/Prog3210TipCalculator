@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="billAmount">34.50</string>
+    <string name="bilAmountLabel">Bill Amount:</string>
+
+    <string name="percentLabel">Percent:</string>
+    <string name="percent">15%</string>
+    <string name="addPercent">+</string>
+    <string name="minusPercent">-</string>
+
+    <string name="tipLabel">Tip:</string>
+    <string name="tipTotal">$0.00</string>
+
+    <string name="totalLabel">Total:</string>
+    <string name="total">$0.00</string>
+
+    <string name="calculateButton">Calculate</string>
+
+
+
+</resources>
